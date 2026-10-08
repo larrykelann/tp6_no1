@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 
 int main() {
@@ -7,5 +6,6 @@ int main() {
     float c;
     c = (float) a / b;
     printf(" %f", c);
+
     return 0;
 }
